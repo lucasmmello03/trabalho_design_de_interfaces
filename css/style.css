@@ -19,3 +19,7 @@ nav li:nth-child(2) a {
 fieldset label:nth-of-type(odd) {
   color: #D97706;
 }
+
+table, th, td {
+  border: 2px solid black;
+}
